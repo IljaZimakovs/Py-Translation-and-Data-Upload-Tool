@@ -4,6 +4,10 @@
 
 This tool is designed to translate text data from a selected file, format the data, and upload it to an AWS DynamoDB table. The tool uses Google Cloud Translate API for translation and Boto3 library for AWS DynamoDB interaction.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Translation-and-Data-Upload-Tool.png)](https://drive.google.com/file/d/1YR85TWRDuvrvJlJHK5CgYCQgdT857A2A/view?usp=drive_link)
+
 ## Prerequisites
 
 Before using this tool, ensure you have the following:
