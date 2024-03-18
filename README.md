@@ -6,7 +6,7 @@ This tool is designed to translate text data from a selected file, format the da
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Translation-and-Data-Upload-Tool.png)](https://drive.google.com/file/d/1YR85TWRDuvrvJlJHK5CgYCQgdT857A2A/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-Translation-and-Data-Upload-Tool.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-Translation-and-Data-Upload-Tool.mp4)
 
 ## Prerequisites
 
